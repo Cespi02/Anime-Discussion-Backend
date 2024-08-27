@@ -1,0 +1,9 @@
+# Ignorar archivos de configuración de Visual Studio
+.vs/
+*.user
+*.suo
+*.sln.docstates
+
+# Ignorar archivos temporales
+*.log
+*.tmp
